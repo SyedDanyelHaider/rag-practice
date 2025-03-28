@@ -1,0 +1,153 @@
+2025-03-29 02:25:39,302 INFO Loading FAISS vector store...
+2025-03-29 02:25:45,445 INFO Use pytorch device_name: cpu
+2025-03-29 02:25:45,445 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:25:45,978 INFO Loading FAISS vector store...
+2025-03-29 02:25:45,998 INFO Use pytorch device_name: cpu
+2025-03-29 02:25:46,001 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:25:49,147 INFO FAISS vector store loaded.
+2025-03-29 02:25:49,815 INFO FAISS vector store loaded.
+2025-03-29 02:25:56,323 INFO Loading FAISS vector store...
+2025-03-29 02:25:56,326 INFO Use pytorch device_name: cpu
+2025-03-29 02:25:56,326 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:25:56,424 INFO Loading FAISS vector store...
+2025-03-29 02:25:56,425 INFO Use pytorch device_name: cpu
+2025-03-29 02:25:56,425 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:25:59,674 INFO FAISS vector store loaded.
+2025-03-29 02:26:00,258 INFO FAISS vector store loaded.
+2025-03-29 02:26:00,273 INFO Getting similar articles for: data
+2025-03-29 02:29:45,254 INFO Loading FAISS vector store...
+2025-03-29 02:29:47,333 INFO Loading FAISS vector store...
+2025-03-29 02:29:51,405 INFO Use pytorch device_name: cpu
+2025-03-29 02:29:51,405 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:29:51,406 INFO Use pytorch device_name: cpu
+2025-03-29 02:29:51,406 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:29:55,996 INFO FAISS vector store loaded.
+2025-03-29 02:29:55,997 INFO FAISS vector store loaded.
+2025-03-29 02:30:05,309 INFO Loading FAISS vector store...
+2025-03-29 02:30:05,312 INFO Use pytorch device_name: cpu
+2025-03-29 02:30:05,312 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:30:05,392 INFO Loading FAISS vector store...
+2025-03-29 02:30:05,393 INFO Use pytorch device_name: cpu
+2025-03-29 02:30:05,394 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:30:08,941 INFO FAISS vector store loaded.
+2025-03-29 02:30:08,954 INFO Getting similar articles for: data
+2025-03-29 02:36:58,663 INFO Loading FAISS vector store...
+2025-03-29 02:37:03,083 INFO Loading FAISS vector store...
+2025-03-29 02:37:04,365 INFO Use pytorch device_name: cpu
+2025-03-29 02:37:04,365 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:37:04,365 INFO Use pytorch device_name: cpu
+2025-03-29 02:37:04,366 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:37:07,744 INFO FAISS vector store loaded.
+2025-03-29 02:37:07,745 INFO FAISS vector store loaded.
+2025-03-29 02:37:31,750 INFO Loading FAISS vector store...
+2025-03-29 02:37:31,752 INFO Use pytorch device_name: cpu
+2025-03-29 02:37:31,752 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:37:31,814 INFO Loading FAISS vector store...
+2025-03-29 02:37:31,816 INFO Use pytorch device_name: cpu
+2025-03-29 02:37:31,816 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:37:34,869 INFO FAISS vector store loaded.
+2025-03-29 02:37:35,078 INFO Getting similar articles for: data
+2025-03-29 02:41:17,624 INFO Loading FAISS vector store...
+2025-03-29 02:41:20,286 INFO Loading FAISS vector store...
+2025-03-29 02:41:20,465 INFO Use pytorch device_name: cpu
+2025-03-29 02:41:20,465 INFO Use pytorch device_name: cpu
+2025-03-29 02:41:20,465 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:41:20,466 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:41:23,842 INFO FAISS vector store loaded.
+2025-03-29 02:41:23,845 INFO FAISS vector store loaded.
+2025-03-29 02:41:27,607 INFO Loading FAISS vector store...
+2025-03-29 02:41:27,610 INFO Use pytorch device_name: cpu
+2025-03-29 02:41:27,610 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:41:27,688 INFO Loading FAISS vector store...
+2025-03-29 02:41:27,691 INFO Use pytorch device_name: cpu
+2025-03-29 02:41:27,691 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:41:31,339 INFO FAISS vector store loaded.
+2025-03-29 02:41:31,353 INFO Getting similar articles for: data
+2025-03-29 02:41:31,678 INFO FAISS vector store loaded.
+2025-03-29 02:41:47,171 INFO Loading FAISS vector store...
+2025-03-29 02:41:47,173 INFO Use pytorch device_name: cpu
+2025-03-29 02:41:47,174 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:41:49,900 INFO FAISS vector store loaded.
+2025-03-29 02:45:22,019 INFO Loading FAISS vector store...
+2025-03-29 02:45:22,024 INFO Use pytorch device_name: cpu
+2025-03-29 02:45:22,024 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:45:25,760 INFO FAISS vector store loaded.
+2025-03-29 02:48:58,260 INFO Loading FAISS vector store...
+2025-03-29 02:48:58,262 INFO Use pytorch device_name: cpu
+2025-03-29 02:48:58,262 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:49:02,606 INFO FAISS vector store loaded.
+2025-03-29 02:49:11,462 INFO Loading FAISS vector store...
+2025-03-29 02:49:11,464 INFO Use pytorch device_name: cpu
+2025-03-29 02:49:11,465 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:49:11,564 INFO Loading FAISS vector store...
+2025-03-29 02:49:11,569 INFO Use pytorch device_name: cpu
+2025-03-29 02:49:11,569 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:49:14,180 INFO FAISS vector store loaded.
+2025-03-29 02:49:15,031 INFO FAISS vector store loaded.
+2025-03-29 02:49:15,044 INFO Getting similar articles for: intro to data science
+2025-03-29 02:49:15,151 INFO Generating summaries...
+2025-03-29 02:49:26,550 INFO Summaries generated.
+2025-03-29 02:50:15,639 INFO Loading FAISS vector store...
+2025-03-29 02:50:15,642 INFO Use pytorch device_name: cpu
+2025-03-29 02:50:15,643 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 02:50:19,953 INFO FAISS vector store loaded.
+2025-03-29 02:50:20,156 INFO Getting similar articles for: intro to data science
+2025-03-29 02:50:20,192 INFO Generating summaries...
+2025-03-29 02:50:21,225 ERROR Error generating summary: Expecting value: line 1 column 1 (char 0)
+2025-03-29 02:50:23,830 ERROR Error generating summary: Expecting value: line 1 column 1 (char 0)
+2025-03-29 02:50:25,129 ERROR Error generating summary: Expecting value: line 1 column 1 (char 0)
+2025-03-29 02:50:26,324 ERROR Error generating summary: Expecting value: line 1 column 1 (char 0)
+2025-03-29 02:50:28,218 ERROR Error generating summary: Expecting value: line 1 column 1 (char 0)
+2025-03-29 02:50:28,221 INFO Summaries generated.
+2025-03-29 03:23:42,593 INFO Loading FAISS vector store...
+2025-03-29 03:23:42,598 INFO Use pytorch device_name: cpu
+2025-03-29 03:23:42,598 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:23:42,676 INFO Loading FAISS vector store...
+2025-03-29 03:23:42,678 INFO Use pytorch device_name: cpu
+2025-03-29 03:23:42,678 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:23:48,231 INFO FAISS vector store loaded.
+2025-03-29 03:23:48,444 INFO Getting similar articles for: intro to data science
+2025-03-29 03:23:48,551 INFO Generating summaries...
+2025-03-29 03:23:50,569 INFO FAISS vector store loaded.
+2025-03-29 03:24:03,134 INFO Summaries generated.
+2025-03-29 03:24:43,056 INFO Loading FAISS vector store...
+2025-03-29 03:24:43,058 INFO Use pytorch device_name: cpu
+2025-03-29 03:24:43,058 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:24:43,122 INFO Loading FAISS vector store...
+2025-03-29 03:24:43,124 INFO Use pytorch device_name: cpu
+2025-03-29 03:24:43,124 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:24:48,866 INFO FAISS vector store loaded.
+2025-03-29 03:24:48,866 INFO FAISS vector store loaded.
+2025-03-29 03:24:49,223 INFO Getting similar articles for: intro to data scienc
+2025-03-29 03:24:49,267 INFO Generating summaries...
+2025-03-29 03:25:06,212 INFO Summaries generated.
+2025-03-29 03:25:13,428 INFO Loading FAISS vector store...
+2025-03-29 03:25:13,430 INFO Use pytorch device_name: cpu
+2025-03-29 03:25:13,431 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:25:13,511 INFO Loading FAISS vector store...
+2025-03-29 03:25:13,512 INFO Use pytorch device_name: cpu
+2025-03-29 03:25:13,513 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:25:20,838 INFO FAISS vector store loaded.
+2025-03-29 03:25:21,042 INFO Getting similar articles for: data science
+2025-03-29 03:25:21,078 INFO Generating summaries...
+2025-03-29 03:25:21,111 INFO FAISS vector store loaded.
+2025-03-29 03:25:29,564 INFO Summaries generated.
+2025-03-29 03:31:58,572 INFO Loading FAISS vector store...
+2025-03-29 03:31:58,576 INFO Use pytorch device_name: cpu
+2025-03-29 03:31:58,576 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:32:00,173 INFO Loading FAISS vector store...
+2025-03-29 03:32:00,176 INFO Use pytorch device_name: cpu
+2025-03-29 03:32:00,176 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:32:02,059 INFO FAISS vector store loaded.
+2025-03-29 03:32:03,801 INFO FAISS vector store loaded.
+2025-03-29 03:32:10,686 INFO Loading FAISS vector store...
+2025-03-29 03:32:10,689 INFO Use pytorch device_name: cpu
+2025-03-29 03:32:10,689 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:32:10,753 INFO Loading FAISS vector store...
+2025-03-29 03:32:10,755 INFO Use pytorch device_name: cpu
+2025-03-29 03:32:10,755 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-29 03:32:13,836 INFO FAISS vector store loaded.
+2025-03-29 03:32:13,849 INFO Getting similar articles for: data SCIENCE
+2025-03-29 03:32:13,875 INFO FAISS vector store loaded.
+2025-03-29 03:32:14,073 INFO Generating summaries...
+2025-03-29 03:32:25,888 INFO Summaries generated.
