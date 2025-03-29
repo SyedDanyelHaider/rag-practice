@@ -51,7 +51,6 @@ narwhals==1.32.0
 networkx==3.2.1
 nltk==3.9.1
 numpy==1.26.4
-openai==0.27.0
 orjson==3.10.16
 packaging==24.2
 pandas==1.4.1
